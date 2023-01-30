@@ -7,9 +7,9 @@ There are numerous methods available for object detection and instance segmentat
 It enables quick training and inferencIt is a part of the OpenMMLab project. 
 OpenMMLab covers a wide range of research topics of computer vision, e.g., classification, detection, segmentation and super-resolution.e with quality.
 
-MMDetection is an amazing toolbox with pretty good tutorial but less resources and articles available online, which can be a problem for new users.
+MMDetection is an amazing toolbox with pretty good tutorial, there are some resources and articles available online, but to implement many functionalities we require GPUs or installlation, which can be a problem for new users.
 
-This is a small attempt to reduce complexities, make it easy to understand, experiment and implement various CV tasks.
+This is a small attempt to reduce complexities, make it easy to understand, experiment and implement various CV tasks using MMDetection.
 
 MMDetection Github Link: https://github.com/open-mmlab/mmdetection
 
